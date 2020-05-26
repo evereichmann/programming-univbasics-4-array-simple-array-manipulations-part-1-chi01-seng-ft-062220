@@ -6,5 +6,6 @@ end
 
 def next_color
   second_color = ["green"]
-  second_color.push("purple")
+  another_color = "purple"
+  second_color.push(another_color)
 end
