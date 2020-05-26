@@ -8,7 +8,7 @@ end
 
 def using_pop(colors)
   colors = ["red", "blue", "green", "yellow"]
-  @colors.pop
+  colors.pop
 end 
 
 def colors_in_the_rainbow
