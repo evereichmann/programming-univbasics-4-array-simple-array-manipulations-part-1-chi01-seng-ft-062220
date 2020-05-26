@@ -7,6 +7,9 @@ def using_unshift(array, string)
 end
 
 def using_pop(array, string)
+  array.pop(string)
+end 
+
 def colors_in_the_rainbow
   colors = ["red", "yellow"]
   new_color = ["blue" , "green"]
