@@ -1,6 +1,7 @@
 def colors_in_the_rainbow
   colors = ["red"]
-  colors.push("blue")
+  new_color = "blue"
+  colors.push(new_color)
 end
 
 def next_color
