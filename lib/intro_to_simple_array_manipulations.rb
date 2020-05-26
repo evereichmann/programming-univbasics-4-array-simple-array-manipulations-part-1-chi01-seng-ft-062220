@@ -6,8 +6,9 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
-def using_pop(array, string)
-  array.pop(string)
+def using_pop(colors)
+  colors = ["red", "blue", "green", "yellow"]
+  colors.pop(string)
 end 
 
 def colors_in_the_rainbow
