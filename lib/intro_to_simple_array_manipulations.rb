@@ -11,7 +11,7 @@ def using_unshift(bouroughs_in_nyc, string)
 end
 
 def using_pop(continents)
-  delete_string
+  delete_string = continents
 end 
 
 def pop_with_args(dog_breeds)
