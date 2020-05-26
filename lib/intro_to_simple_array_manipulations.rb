@@ -16,4 +16,6 @@ def using_pop(continents)
 end 
 
 def pop_with_arg(array)
+  dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
+  
 end
