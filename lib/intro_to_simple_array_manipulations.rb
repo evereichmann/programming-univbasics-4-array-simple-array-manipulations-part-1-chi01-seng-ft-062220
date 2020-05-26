@@ -4,4 +4,6 @@ def colors_in_the_rainbow
 end
 
 def next_color
+  second_color = ["green"]
+  second_color.push("purple")
 end
